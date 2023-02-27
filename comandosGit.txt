@@ -18,3 +18,10 @@ git config --global user.email "seu email"
 ----------------------------
 //adicionar todas as alterações na próxima versão
 git add .
+----------------------------
+//lista todos os commits
+git log
+----------------------------
+//retorna para um commit pelo ID
+git reset --hard numerodocommit
+----------------------------
