@@ -1,7 +1,7 @@
 //Iniciar um controle de versões
 git init
 
-//Verifica atualizações
+//Verificar atualizações/modificações no projeto
 git status
 
 //Adicionar o arquivo alterado na próxima versão
