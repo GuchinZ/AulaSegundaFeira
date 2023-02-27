@@ -5,7 +5,7 @@ git init
 git status
 
 //Adicionar o arquivo alterado na próxima versão
-git add
+git add nomedoarquivo.extensaodoarquivo
 
 //Criar próxima versão
 git commit -m "descrição breve da versão criada"
