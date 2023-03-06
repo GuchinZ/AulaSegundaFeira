@@ -23,5 +23,7 @@ git add .
 git log
 ----------------------------
 //retorna para um commit pelo ID
-git reset --hard numerodocommit
+git reset --hard numeroiddocommit
 ----------------------------
+//retorna para um determinado numero de commits
+
