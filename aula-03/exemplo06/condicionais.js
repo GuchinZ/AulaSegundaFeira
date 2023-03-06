@@ -2,6 +2,13 @@ var hora = 10
 
 if (hora < 12){
     console.log("Bom dia!!!")
-}else{
-    console.log("Boa tarde ou boa noite")
-}
+}else 
+    if(hora < 18)
+    {
+        console.log("Boa tarde!!!")
+    } 
+    else 
+        if(hora < 24)
+        {
+            console.log("Boa noite!!!")
+        }
